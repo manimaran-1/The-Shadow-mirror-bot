@@ -1,6 +1,6 @@
 # The-Shadow-mirror-bot
 Telegram to G-Drive Uploder Bot
-[![SlamDevs](https://telegra.ph/file/dd68f0ff8c8e1bda55952.jpg)](https://t.me/SlamDevs)
+[![SlamDevs](https://telegra.ph/file/dd68f0ff8c8e1bda55952.jpg)](https://t.me/TheEmpireGroup)
 
 # Slam Mirror Bot
 
